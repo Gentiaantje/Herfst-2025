@@ -1,0 +1,287 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Michael Turner",
+      "image": "https://wincacademy.github.io/webpages/media/person6.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Sophia Collins",
+      "image": "https://wincacademy.github.io/webpages/media/article-author.png"
+    },
+    {
+      "id": 3,
+      "name": "Emily Carter",
+      "image": "https://wincacademy.github.io/webpages/media/person9.jpeg"
+    }
+  ],
+  "events": [
+    {
+      "title": "Trampoline party",
+      "description": "Bounce around with your friends",
+      "startDate": "2025-10-07T15:20",
+      "endDate": "2025-10-07T16:21",
+      "image": "https://i.pinimg.com/736x/3d/2f/af/3d2faf4e3188d34a9fcdc00df59e77b0.jpg",
+      "categoryIds": [
+        2
+      ],
+      "location": "My back yard",
+      "id": 1
+    },
+    {
+      "title": "Laser Tag mania",
+      "description": "Let's play laser tag!",
+      "startDate": "2025-10-17T17:20",
+      "endDate": "2025-10-17T19:21",
+      "image": "https://wincacademy.github.io/webpages/media/lasertag.jpg",
+      "categoryIds": [
+        2
+      ],
+      "location": "Blinded by the Lights Laser Tag, 15 Main St.",
+      "id": 2
+    },
+    {
+      "title": "Badminton game",
+      "description": "Hit that shuttle!",
+      "startDate": "2025-10-01T18:22",
+      "endDate": "2025-10-01T19:28",
+      "image": "https://wincacademy.github.io/webpages/media/pexels-vladvictoria-2202685.jpg",
+      "categoryIds": [
+        2
+      ],
+      "location": "The Park",
+      "id": 3
+    },
+    {
+      "title": "Yoga",
+      "description": "It's a bit of a stretch.",
+      "startDate": "2025-10-08T20:06",
+      "endDate": "2025-10-09T21:07",
+      "image": "https://wincacademy.github.io/webpages/media/pexels-gabby-k-5384538.jpg",
+      "categoryIds": [
+        3
+      ],
+      "location": "Shavasana Yoga School",
+      "id": 4
+    },
+    {
+      "title": "Tennis",
+      "description": "Serving up fun on the court.",
+      "startDate": "2025-10-03T19:22",
+      "endDate": "2025-10-03T20:23",
+      "image": "https://wincacademy.github.io/webpages/media/pexels-floriandoppler-3207474.jpg",
+      "categoryIds": [
+        1
+      ],
+      "location": "Grand Slam Tennis Court",
+      "id": 5
+    },
+    {
+      "title": "Board games night",
+      "description": "Roll the dice and join the fun!",
+      "startDate": "2025-10-07T13:23",
+      "endDate": "2025-10-08T15:24",
+      "image": "https://wincacademy.github.io/webpages/media/pexels-tima-miroshnichenko-6598746.jpg",
+      "categoryIds": [
+        2
+      ],
+      "location": "Community Hall",
+      "id": 6
+    },
+    {
+      "title": "Tea tasting",
+      "description": "Savor the soothing flavors of herbal teas.",
+      "startDate": "2025-10-02T15:24",
+      "endDate": "2025-10-02T16:24",
+      "image": "https://wincacademy.github.io/webpages/media/pexels-viktoria-alipatova-1083711-2130137.jpg",
+      "categoryIds": [
+        3
+      ],
+      "location": "Cozy Tea House",
+      "id": 7
+    },
+    {
+      "title": "Nature walk",
+      "description": "Connect with nature and clear your mind.",
+      "startDate": "2025-10-20T15:26",
+      "endDate": "2025-10-24T15:26",
+      "image": "https://wincacademy.github.io/webpages/media/hiking.png",
+      "categoryIds": [
+        3
+      ],
+      "location": "Forest Trailhead",
+      "id": 8
+    },
+    {
+      "title": "Bowling night",
+      "description": "Strike up some fun with friends at the lanes!",
+      "startDate": "2025-10-02T15:19",
+      "endDate": "2025-10-02T17:19",
+      "image": "https://wincacademy.github.io/webpages/media/pexels-rnnzeravac-9273055.jpg",
+      "categoryIds": [
+        2
+      ],
+      "location": "Downtown Bowling Alley",
+      "id": 9
+    },
+    {
+      "title": "IJsvissen",
+      "description": "On the Lake",
+      "startDate": "2025-12-30T14:57",
+      "endDate": "2025-12-30T16:57",
+      "image": "https://media.istockphoto.com/id/1130769390/nl/foto/zeven-baars-op-een-sneeuw-in-een-bevroren-bergmeer-ijs-vissen-kopieerruimte-selectieve-focus.jpg?s=2048x2048&w=is&k=20&c=4GEyU1ewvZd5I3RHAeH4VYTLamlIhhN-jcdKHyGcvbw=",
+      "categoryIds": [
+        2
+      ],
+      "location": "Finland",
+      "id": 10
+    },
+    {
+      "title": "Appeltaart ",
+      "description": "Appeltaart bakken",
+      "startDate": "2025-10-02T15:10",
+      "endDate": "2025-10-03T15:10",
+      "image": "https://media.istockphoto.com/id/1372975347/nl/foto/appeltaart-bakken.jpg?s=2048x2048&w=is&k=20&c=6QIPiZT2IJmo4ySA_7A_clg9jVCgD0fv9MIG7YIEPp4=",
+      "categoryIds": [
+        3
+      ],
+      "location": "Thuis",
+      "id": 11
+    },
+    {
+      "title": "Hiken",
+      "description": "In connection with the nature.",
+      "startDate": "2025-10-02T15:12",
+      "endDate": "2025-10-09T16:13",
+      "image": "https://images.pexels.com/photos/33330141/pexels-photo-33330141.jpeg",
+      "categoryIds": [
+        1
+      ],
+      "location": "In de bergen",
+      "id": 12
+    },
+    {
+      "title": "Ballonvaren",
+      "description": "In the sky",
+      "startDate": "2025-10-03T13:33",
+      "endDate": "2025-10-03T15:33",
+      "image": "https://images.pexels.com/photos/34027883/pexels-photo-34027883.jpeg",
+      "categoryIds": [
+        3
+      ],
+      "location": "Alpen",
+      "id": 13
+    },
+    {
+      "title": "Kunstschaatsen",
+      "description": "On the ice",
+      "startDate": "2025-12-30T20:32",
+      "endDate": "2025-12-30T21:59",
+      "image": "https://images.pexels.com/photos/6539460/pexels-photo-6539460.jpeg",
+      "categoryIds": [
+        1
+      ],
+      "location": "Obersdorf",
+      "id": 14
+    },
+    {
+      "title": "Sterren",
+      "description": "Looking to the stars",
+      "startDate": "17-10-2025",
+      "endDate": "18-10-2025",
+      "image": "https://images.pexels.com/photos/1567069/pexels-photo-1567069.jpeg",
+      "categoryIds": [
+        3
+      ],
+      "location": "Vlieland",
+      "id": 15
+    },
+    {
+      "title": "Schaken",
+      "description": "Playing on the board",
+      "startDate": "2025-10-09T21:10",
+      "endDate": "2025-10-09T22:10",
+      "image": "https://images.pexels.com/photos/8466022/pexels-photo-8466022.jpeg",
+      "categoryIds": [
+        2
+      ],
+      "location": "Katwijk",
+      "id": 16
+    },
+    {
+      "title": "Knikkerbaan",
+      "description": "A challenge",
+      "startDate": "2025-10-17T15:30",
+      "endDate": "2025-10-17T16:30",
+      "image": "https://images.pexels.com/photos/27147729/pexels-photo-27147729.jpeg",
+      "categoryIds": [
+        2
+      ],
+      "location": "Leiden",
+      "id": 17
+    },
+    {
+      "title": "In de bossen",
+      "description": "Frisse lucht inademen",
+      "startDate": "27-10-2025",
+      "endDate": "31-10-2025",
+      "image": "https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg",
+      "categoryIds": [
+        3
+      ],
+      "location": "Veluwe",
+      "id": 18
+    },
+    {
+      "title": "Skaten",
+      "description": "On the way",
+      "startDate": "2025-10-10T13:00",
+      "endDate": "2025-10-10T14:00",
+      "image": "https://images.pexels.com/photos/1093291/pexels-photo-1093291.jpeg",
+      "categoryIds": [
+        1
+      ],
+      "location": "In the dunes",
+      "id": 19
+    },
+    {
+      "title": "Varen",
+      "description": "Met de boot",
+      "startDate": "2025-10-10T16:10",
+      "endDate": "2025-10-10T19:10",
+      "image": "https://images.pexels.com/photos/611328/pexels-photo-611328.jpeg",
+      "categoryIds": [
+        1
+      ],
+      "location": "Op het water",
+      "id": 20
+    },
+    {
+      "title": "Wellnes",
+      "description": "Relaxen in de Sauna",
+      "startDate": "2025-10-10T12:54",
+      "endDate": "2025-10-10T13:54",
+      "image": "https://images.pexels.com/photos/8092430/pexels-photo-8092430.jpeg",
+      "categoryIds": [
+        3
+      ],
+      "location": "Valkenburg",
+      "id": 21
+    }
+  ],
+  "categories": [
+    {
+      "name": "sports",
+      "id": 1
+    },
+    {
+      "name": "games",
+      "id": 2
+    },
+    {
+      "name": "relaxation",
+      "id": 3
+    }
+  ]
+}
