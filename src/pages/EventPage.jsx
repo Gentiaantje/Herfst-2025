@@ -35,7 +35,7 @@ export default function EventPage() {
 
   useEffect(() => {
     axios
-      .get(`https://my-json-server.typicode.com/mkrdoob/events-static-api/events/${eventId}`)
+      .get(`https://my-json-server.typicode.com/Gentiaantje/Evenementen3000/events/${eventId}`)
       .then((res) => {
         setEvent(res.data);
         setFormData(res.data);
@@ -94,7 +94,7 @@ export default function EventPage() {
     console.log("aangepastEvent.categoryIds;", aangepastEvent.categoryIds);
 
     axios
-      .put(`https://my-json-server.typicode.com/mrkdoob/events-static-api/events/${eventId}`, aangepastEvent)
+      .put(`https://my-json-server.typicode.com/Gentiaantje/Evenementen3000/events/${eventId}`, aangepastEvent)
 
       .then((res) => {
         setEvent(res.data);
@@ -111,7 +111,7 @@ export default function EventPage() {
       )
     ) {
       axios
-        .delete(`https://my-json-server.typicode.com/mrkdoob/events-static-api/events/${eventId}`)
+        .delete(`https://my-json-server.typicode.com/Gentiaantje/Evenementen3000/events/${eventId}`)
         .then(() => {
           toast.success("Event deleted successfully");
           navigate("/");
